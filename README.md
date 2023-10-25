@@ -1,6 +1,6 @@
 ## UVA code
 
-This repository used to save some practice code of UVA DL tutorial.
+This repository used to save some practice code of [UVA DL](https://uvadlc-notebooks.readthedocs.io/en/latest/) tutorial.
 
 Also use [D2L](https://d2l.ai/index.html) (Mu Li et al.) and [Understanding Deep Learning](https://udlbook.github.io/udlbook/) as complement of the study.
 
